@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcelo</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **UI, HTML, CSS, JS**
+- 🌱 I’m currently learning **Ruby**
 
 - 📫 How to reach me **marcelogoncalves0222@gmail.com**
 
